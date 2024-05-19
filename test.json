@@ -1,0 +1,584 @@
+[
+    {
+        "location": "Brecilien",
+        "item_id": "T4_SKILLBOOK_GATHER_HIDE",
+        "quality": 1,
+        "data": [
+            {
+                "item_count": 1,
+                "avg_price": 18,
+                "timestamp": "2024-04-27T00:00:00"
+            },
+            {
+                "item_count": 13,
+                "avg_price": 18,
+                "timestamp": "2024-04-30T00:00:00"
+            },
+            {
+                "item_count": 1,
+                "avg_price": 14,
+                "timestamp": "2024-05-01T00:00:00"
+            },
+            {
+                "item_count": 10,
+                "avg_price": 199494,
+                "timestamp": "2024-05-09T00:00:00"
+            },
+            {
+                "item_count": 49,
+                "avg_price": 193946,
+                "timestamp": "2024-05-10T00:00:00"
+            },
+            {
+                "item_count": 27,
+                "avg_price": 190872,
+                "timestamp": "2024-05-11T00:00:00"
+            },
+            {
+                "item_count": 31,
+                "avg_price": 188935,
+                "timestamp": "2024-05-12T00:00:00"
+            },
+            {
+                "item_count": 63,
+                "avg_price": 191039,
+                "timestamp": "2024-05-13T00:00:00"
+            },
+            {
+                "item_count": 15,
+                "avg_price": 185418,
+                "timestamp": "2024-05-14T00:00:00"
+            },
+            {
+                "item_count": 27,
+                "avg_price": 232351,
+                "timestamp": "2024-05-15T00:00:00"
+            },
+            {
+                "item_count": 12,
+                "avg_price": 189910,
+                "timestamp": "2024-05-16T00:00:00"
+            }
+        ]
+    },
+    {
+        "location": "Bridgewatch",
+        "item_id": "T4_SKILLBOOK_GATHER_HIDE",
+        "quality": 1,
+        "data": [
+            {
+                "item_count": 77,
+                "avg_price": 126326,
+                "timestamp": "2024-04-24T00:00:00"
+            },
+            {
+                "item_count": 179,
+                "avg_price": 125490,
+                "timestamp": "2024-04-25T00:00:00"
+            },
+            {
+                "item_count": 330,
+                "avg_price": 133904,
+                "timestamp": "2024-04-26T00:00:00"
+            },
+            {
+                "item_count": 300,
+                "avg_price": 139029,
+                "timestamp": "2024-04-27T00:00:00"
+            },
+            {
+                "item_count": 380,
+                "avg_price": 142018,
+                "timestamp": "2024-04-28T00:00:00"
+            },
+            {
+                "item_count": 593,
+                "avg_price": 108569,
+                "timestamp": "2024-04-29T00:00:00"
+            },
+            {
+                "item_count": 680,
+                "avg_price": 102707,
+                "timestamp": "2024-04-30T00:00:00"
+            },
+            {
+                "item_count": 724,
+                "avg_price": 123688,
+                "timestamp": "2024-05-01T00:00:00"
+            },
+            {
+                "item_count": 706,
+                "avg_price": 131490,
+                "timestamp": "2024-05-02T00:00:00"
+            },
+            {
+                "item_count": 650,
+                "avg_price": 124021,
+                "timestamp": "2024-05-03T00:00:00"
+            },
+            {
+                "item_count": 752,
+                "avg_price": 132123,
+                "timestamp": "2024-05-04T00:00:00"
+            },
+            {
+                "item_count": 552,
+                "avg_price": 141339,
+                "timestamp": "2024-05-05T00:00:00"
+            },
+            {
+                "item_count": 651,
+                "avg_price": 122880,
+                "timestamp": "2024-05-06T00:00:00"
+            },
+            {
+                "item_count": 711,
+                "avg_price": 128340,
+                "timestamp": "2024-05-07T00:00:00"
+            },
+            {
+                "item_count": 574,
+                "avg_price": 122648,
+                "timestamp": "2024-05-08T00:00:00"
+            },
+            {
+                "item_count": 669,
+                "avg_price": 125312,
+                "timestamp": "2024-05-09T00:00:00"
+            },
+            {
+                "item_count": 613,
+                "avg_price": 117082,
+                "timestamp": "2024-05-10T00:00:00"
+            },
+            {
+                "item_count": 663,
+                "avg_price": 119374,
+                "timestamp": "2024-05-11T00:00:00"
+            },
+            {
+                "item_count": 741,
+                "avg_price": 126237,
+                "timestamp": "2024-05-12T00:00:00"
+            },
+            {
+                "item_count": 657,
+                "avg_price": 139871,
+                "timestamp": "2024-05-13T00:00:00"
+            },
+            {
+                "item_count": 603,
+                "avg_price": 142670,
+                "timestamp": "2024-05-14T00:00:00"
+            },
+            {
+                "item_count": 629,
+                "avg_price": 120684,
+                "timestamp": "2024-05-15T00:00:00"
+            },
+            {
+                "item_count": 673,
+                "avg_price": 112583,
+                "timestamp": "2024-05-16T00:00:00"
+            },
+            {
+                "item_count": 532,
+                "avg_price": 110513,
+                "timestamp": "2024-05-17T00:00:00"
+            }
+        ]
+    },
+    {
+        "location": "Fort Sterling",
+        "item_id": "T4_SKILLBOOK_GATHER_HIDE",
+        "quality": 1,
+        "data": [
+            {
+                "item_count": 6,
+                "avg_price": 138332,
+                "timestamp": "2024-04-24T00:00:00"
+            },
+            {
+                "item_count": 24,
+                "avg_price": 138102,
+                "timestamp": "2024-04-25T00:00:00"
+            },
+            {
+                "item_count": 46,
+                "avg_price": 144008,
+                "timestamp": "2024-04-26T00:00:00"
+            },
+            {
+                "item_count": 35,
+                "avg_price": 161577,
+                "timestamp": "2024-04-27T00:00:00"
+            },
+            {
+                "item_count": 54,
+                "avg_price": 169737,
+                "timestamp": "2024-04-28T00:00:00"
+            },
+            {
+                "item_count": 39,
+                "avg_price": 147725,
+                "timestamp": "2024-04-29T00:00:00"
+            },
+            {
+                "item_count": 97,
+                "avg_price": 132240,
+                "timestamp": "2024-04-30T00:00:00"
+            },
+            {
+                "item_count": 102,
+                "avg_price": 193691,
+                "timestamp": "2024-05-01T00:00:00"
+            },
+            {
+                "item_count": 89,
+                "avg_price": 186896,
+                "timestamp": "2024-05-02T00:00:00"
+            },
+            {
+                "item_count": 93,
+                "avg_price": 167453,
+                "timestamp": "2024-05-03T00:00:00"
+            },
+            {
+                "item_count": 100,
+                "avg_price": 171955,
+                "timestamp": "2024-05-04T00:00:00"
+            },
+            {
+                "item_count": 35,
+                "avg_price": 193454,
+                "timestamp": "2024-05-05T00:00:00"
+            }
+        ]
+    },
+    {
+        "location": "Lymhurst",
+        "item_id": "T4_SKILLBOOK_GATHER_HIDE",
+        "quality": 1,
+        "data": [
+            {
+                "item_count": 77,
+                "avg_price": 126326,
+                "timestamp": "2024-04-24T00:00:00"
+            },
+            {
+                "item_count": 179,
+                "avg_price": 125490,
+                "timestamp": "2024-04-25T00:00:00"
+            },
+            {
+                "item_count": 330,
+                "avg_price": 133904,
+                "timestamp": "2024-04-26T00:00:00"
+            },
+            {
+                "item_count": 300,
+                "avg_price": 139029,
+                "timestamp": "2024-04-27T00:00:00"
+            },
+            {
+                "item_count": 380,
+                "avg_price": 142018,
+                "timestamp": "2024-04-28T00:00:00"
+            },
+            {
+                "item_count": 593,
+                "avg_price": 108569,
+                "timestamp": "2024-04-29T00:00:00"
+            },
+            {
+                "item_count": 680,
+                "avg_price": 102707,
+                "timestamp": "2024-04-30T00:00:00"
+            },
+            {
+                "item_count": 724,
+                "avg_price": 123688,
+                "timestamp": "2024-05-01T00:00:00"
+            },
+            {
+                "item_count": 706,
+                "avg_price": 131490,
+                "timestamp": "2024-05-02T00:00:00"
+            },
+            {
+                "item_count": 650,
+                "avg_price": 124021,
+                "timestamp": "2024-05-03T00:00:00"
+            },
+            {
+                "item_count": 752,
+                "avg_price": 132123,
+                "timestamp": "2024-05-04T00:00:00"
+            },
+            {
+                "item_count": 552,
+                "avg_price": 141339,
+                "timestamp": "2024-05-05T00:00:00"
+            },
+            {
+                "item_count": 651,
+                "avg_price": 122880,
+                "timestamp": "2024-05-06T00:00:00"
+            },
+            {
+                "item_count": 711,
+                "avg_price": 128340,
+                "timestamp": "2024-05-07T00:00:00"
+            },
+            {
+                "item_count": 574,
+                "avg_price": 122648,
+                "timestamp": "2024-05-08T00:00:00"
+            },
+            {
+                "item_count": 669,
+                "avg_price": 125312,
+                "timestamp": "2024-05-09T00:00:00"
+            },
+            {
+                "item_count": 613,
+                "avg_price": 117082,
+                "timestamp": "2024-05-10T00:00:00"
+            },
+            {
+                "item_count": 663,
+                "avg_price": 119374,
+                "timestamp": "2024-05-11T00:00:00"
+            },
+            {
+                "item_count": 741,
+                "avg_price": 126237,
+                "timestamp": "2024-05-12T00:00:00"
+            },
+            {
+                "item_count": 657,
+                "avg_price": 139871,
+                "timestamp": "2024-05-13T00:00:00"
+            },
+            {
+                "item_count": 603,
+                "avg_price": 142670,
+                "timestamp": "2024-05-14T00:00:00"
+            },
+            {
+                "item_count": 629,
+                "avg_price": 120684,
+                "timestamp": "2024-05-15T00:00:00"
+            },
+            {
+                "item_count": 673,
+                "avg_price": 112583,
+                "timestamp": "2024-05-16T00:00:00"
+            },
+            {
+                "item_count": 688,
+                "avg_price": 114301,
+                "timestamp": "2024-05-17T00:00:00"
+            },
+            {
+                "item_count": 644,
+                "avg_price": 117133,
+                "timestamp": "2024-05-18T00:00:00"
+            }
+        ]
+    },
+    {
+        "location": "Martlock",
+        "item_id": "T4_SKILLBOOK_GATHER_HIDE",
+        "quality": 1,
+        "data": [
+            {
+                "item_count": 12,
+                "avg_price": 157694,
+                "timestamp": "2024-04-24T00:00:00"
+            },
+            {
+                "item_count": 45,
+                "avg_price": 166207,
+                "timestamp": "2024-04-25T00:00:00"
+            },
+            {
+                "item_count": 55,
+                "avg_price": 146208,
+                "timestamp": "2024-04-26T00:00:00"
+            },
+            {
+                "item_count": 79,
+                "avg_price": 146901,
+                "timestamp": "2024-04-27T00:00:00"
+            },
+            {
+                "item_count": 80,
+                "avg_price": 148100,
+                "timestamp": "2024-04-28T00:00:00"
+            },
+            {
+                "item_count": 79,
+                "avg_price": 151075,
+                "timestamp": "2024-04-29T00:00:00"
+            },
+            {
+                "item_count": 126,
+                "avg_price": 147587,
+                "timestamp": "2024-04-30T00:00:00"
+            },
+            {
+                "item_count": 157,
+                "avg_price": 152305,
+                "timestamp": "2024-05-01T00:00:00"
+            },
+            {
+                "item_count": 79,
+                "avg_price": 148032,
+                "timestamp": "2024-05-02T00:00:00"
+            },
+            {
+                "item_count": 179,
+                "avg_price": 160124,
+                "timestamp": "2024-05-03T00:00:00"
+            },
+            {
+                "item_count": 119,
+                "avg_price": 146083,
+                "timestamp": "2024-05-04T00:00:00"
+            },
+            {
+                "item_count": 150,
+                "avg_price": 154696,
+                "timestamp": "2024-05-05T00:00:00"
+            },
+            {
+                "item_count": 111,
+                "avg_price": 142043,
+                "timestamp": "2024-05-06T00:00:00"
+            },
+            {
+                "item_count": 130,
+                "avg_price": 164006,
+                "timestamp": "2024-05-07T00:00:00"
+            },
+            {
+                "item_count": 82,
+                "avg_price": 168091,
+                "timestamp": "2024-05-08T00:00:00"
+            },
+            {
+                "item_count": 107,
+                "avg_price": 138674,
+                "timestamp": "2024-05-09T00:00:00"
+            },
+            {
+                "item_count": 91,
+                "avg_price": 137520,
+                "timestamp": "2024-05-10T00:00:00"
+            },
+            {
+                "item_count": 120,
+                "avg_price": 137555,
+                "timestamp": "2024-05-11T00:00:00"
+            },
+            {
+                "item_count": 84,
+                "avg_price": 129669,
+                "timestamp": "2024-05-12T00:00:00"
+            }
+        ]
+    },
+    {
+        "location": "Thetford",
+        "item_id": "T4_SKILLBOOK_GATHER_HIDE",
+        "quality": 1,
+        "data": [
+            {
+                "item_count": 18,
+                "avg_price": 150777,
+                "timestamp": "2024-04-24T00:00:00"
+            },
+            {
+                "item_count": 30,
+                "avg_price": 166025,
+                "timestamp": "2024-04-25T00:00:00"
+            },
+            {
+                "item_count": 41,
+                "avg_price": 176841,
+                "timestamp": "2024-04-26T00:00:00"
+            },
+            {
+                "item_count": 47,
+                "avg_price": 170871,
+                "timestamp": "2024-04-27T00:00:00"
+            },
+            {
+                "item_count": 59,
+                "avg_price": 172705,
+                "timestamp": "2024-04-28T00:00:00"
+            },
+            {
+                "item_count": 153,
+                "avg_price": 136102,
+                "timestamp": "2024-04-29T00:00:00"
+            },
+            {
+                "item_count": 237,
+                "avg_price": 140966,
+                "timestamp": "2024-04-30T00:00:00"
+            },
+            {
+                "item_count": 166,
+                "avg_price": 162503,
+                "timestamp": "2024-05-01T00:00:00"
+            },
+            {
+                "item_count": 217,
+                "avg_price": 174573,
+                "timestamp": "2024-05-02T00:00:00"
+            },
+            {
+                "item_count": 194,
+                "avg_price": 178949,
+                "timestamp": "2024-05-03T00:00:00"
+            },
+            {
+                "item_count": 222,
+                "avg_price": 180714,
+                "timestamp": "2024-05-04T00:00:00"
+            },
+            {
+                "item_count": 182,
+                "avg_price": 177532,
+                "timestamp": "2024-05-05T00:00:00"
+            },
+            {
+                "item_count": 240,
+                "avg_price": 172327,
+                "timestamp": "2024-05-06T00:00:00"
+            },
+            {
+                "item_count": 147,
+                "avg_price": 167881,
+                "timestamp": "2024-05-07T00:00:00"
+            },
+            {
+                "item_count": 157,
+                "avg_price": 151388,
+                "timestamp": "2024-05-08T00:00:00"
+            },
+            {
+                "item_count": 233,
+                "avg_price": 146625,
+                "timestamp": "2024-05-09T00:00:00"
+            },
+            {
+                "item_count": 197,
+                "avg_price": 158282,
+                "timestamp": "2024-05-10T00:00:00"
+            }
+        ]
+    }
+]
