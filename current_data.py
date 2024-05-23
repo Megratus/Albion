@@ -1,4 +1,5 @@
 import pip._vendor.requests
+import datetime
 
 import mysql.connector
 import json
@@ -17,9 +18,9 @@ def get_request(item):
     except Exception as err:
         print(f'Other error occurred: {err}')
 
-items_config = ('T4_SKILLBOOK_GATHER_HIDE', 'T4_SKILLBOOK_GATHER_ORE')
+items_config = ('T4_SKILLBOOK_GATHER_HIDE', 'T4_SKILLBOOK_GATHER_ORE', 'T6_MAIN_RAPIER_MORGANA@2','T4_ARMOR_LEATHER_HELL@2','T4_LEATHER_LEVEL2@2')
 
-
+updated_date = datetime.datetime.now().replace(microsecond=0).isoformat()
 json_data = []
 
 for item in items_config:
@@ -42,8 +43,8 @@ insert_query = """
 INSERT IGNORE INTO current_data (
     item_id, city, quality, sell_price_min, sell_price_min_date, 
     sell_price_max, sell_price_max_date, buy_price_min, buy_price_min_date, 
-    buy_price_max, buy_price_max_date
-) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+    buy_price_max, buy_price_max_date, updated_date
+) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 """
 
 try:
@@ -67,7 +68,8 @@ try:
             item["buy_price_min"],
             item["buy_price_min_date"],
             item["buy_price_max"],
-            item["buy_price_max_date"]
+            item["buy_price_max_date"],
+            updated_date
         )
         all_values.append(values)
     
